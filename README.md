@@ -66,12 +66,13 @@ Im always trying to learn something new and trying different ideas.
 
 ---
 
-## Contact me:
-- Github: @moqari
-- Instagram: @m0oqa
-- Discord: @mo0qa
-- Twitter/X: @moqazaki
+## Contact Me
+
+- GitHub: [@moqari](https://github.com/moqari)
+- Instagram: [@m0oqa](https://instagram.com/m0oqa)
+- Discord: [@mo0qa](https://discordapp.com/users/928099244227833867)
+- X/Twitter: [@moqazaki](https://x.com/moqazaki)
 
 ---
 
-"The more you know, the more you realize how little you know."
+> "The more you know, the more you realize how little you know."
