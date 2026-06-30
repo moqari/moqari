@@ -68,7 +68,7 @@ Im always trying to learn something new and trying different ideas.
 
 ## Contact Me
 
-- GitHub: [@moqari](https://github.com/moqari)
+- GitHub: [@zersche](https://github.com/zersche)
 - Instagram: [@m0oqa](https://instagram.com/m0oqa)
 - Discord: [@mo0qa](https://discordapp.com/users/928099244227833867)
 - X/Twitter: [@moqazaki](https://x.com/moqazaki)
